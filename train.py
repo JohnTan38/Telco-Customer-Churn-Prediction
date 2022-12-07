@@ -17,7 +17,7 @@ from sklearn.metrics import roc_auc_score
 
 C = 1.0
 n_splits = 5
-output_file = f'M:/CHL/BPI/Internal (can share with other dept & bu)/SCAN/AV_Prime_Mover/Data/model_C_{C}.bin'
+output_file = f'M:/CHL/BPI/Internal (can share with other dept & bu)/SCAN/AV_Prime_Mover/Data/model_C_1.bin'
 
 # data preparation
 
