@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 from PIL import Image
-model_file = (r"M:/CHL/BPI/Internal (can share with other dept & bu)/SCAN/AV_Prime_Mover/Data/model_C_1.bin")
+model_file = (r"C:/.../model_C_1.bin")
 
 with open(model_file, 'rb') as f_in:
     dv, model = pickle.load(f_in)
