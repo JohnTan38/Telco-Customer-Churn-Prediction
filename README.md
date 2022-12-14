@@ -29,12 +29,11 @@
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Feature Engineering](#gear-installation)
-  * [Run Locally](#running-run-locally)
+  * [Streamlit](#running-run-locally)
 - [Strategies to Counter Churn](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
   * [Code of Conduct](#scroll-code-of-conduct)
-- [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
@@ -53,7 +52,7 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 > ![Tenure and Churn](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Tenure%20and%20churn.PNG?raw=true)
 <br>
 > New customers are more likely to churn.<br>
-> 
+
 
 ### Distribution of Monthly Charges
 > ![Monthly Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Charges%20distribution.PNG?raw=true)
@@ -89,8 +88,11 @@ clf.fit(X, y)
 
 ## ✅&nbsp; Strategies to Counter Churn
 
+> Streamline and simplify billing processes. Offer deals to reduce high monthly charges
+> Develop effective customer retention marketing campaigns as barriers to swtiching are low
 
-# 🚀&nbsp; Streamlit Machine Learning
+
+# 🚀&nbsp; Streamlit - Interactive Machine Learning
 
 
 
@@ -104,7 +106,10 @@ pip install streamlit
 streamlit run Stream_app.py
 
 ```
-
+# Contributors ✨
+# Contributing
+Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffeeJohnTan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeJohnTan" /></a></p><br><br>
