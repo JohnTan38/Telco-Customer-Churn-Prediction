@@ -108,7 +108,7 @@ streamlit run Stream_app.py
 ```
 # Contributors ✨
 # Contributing
-Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <h3 align="left">Support:</h3>
