@@ -15,7 +15,7 @@ from sklearn.metrics import roc_auc_score
 
 # parameters
 
-C = 1.0
+C = 1_0
 n_splits = 5
 output_file = f'C:/.../model_C_1.bin'
 
@@ -64,7 +64,7 @@ numerical = [
 
 # training
 
-def train(df_train, y_train, C=1.0):
+def train(df_train, y_train, C=1_0):
     dicts = df_train[categorical + numerical].to_dict(orient='records')
 
     dv = DictVectorizer(sparse=False)
@@ -99,8 +99,8 @@ for train_idx, val_idx in kfold.split(df_full_train):
     df_train = df_full_train.iloc[train_idx]
     df_val = df_full_train.iloc[val_idx]
 
-    y_train = df_train.churn.values
-    y_val = df_val.churn.values
+    y_train = df_train.Churn.values
+    y_val = df_val.Churn.values
 
     dv, model = train(df_train, y_train, C=C)
     y_pred = predict(df_val, dv, model)
@@ -118,10 +118,10 @@ print('C=%s %.3f +- %.3f' % (C, np.mean(scores), np.std(scores)))
 
 print('training the final model')
 
-dv, model = train(df_full_train, df_full_train.churn.values, C=1.0)
+dv, model = train(df_full_train, df_full_train.Churn.values, C=1_0)
 y_pred = predict(df_test, dv, model)
 
-y_test = df_test.churn.values
+y_test = df_test.Churn.values
 auc = roc_auc_score(y_test, y_pred)
 
 print(f'auc={auc}')
