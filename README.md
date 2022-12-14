@@ -91,7 +91,19 @@ clf.fit(X, y)
 
 
 # 🚀&nbsp; Streamlit Machine Learning
-### :running: Run Locally
+
+
+
+> ![Stream App1](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Stream_app1.png)
+> ![Stream App2](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Stream_app2.png)
+> 
+
+### 🏃: Run Locally
+```bash
+pip install streamlit
+streamlit run Stream_app.py
+
+```
 
 
 <h3 align="left">Support:</h3>
