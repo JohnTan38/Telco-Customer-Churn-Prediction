@@ -1,7 +1,7 @@
 # Telco Customer Churn Prediction
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/JohnTan38/Zomato/blob/main/assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>Awesome Machine Learning Project</h1>
   </div>
   <div align='center'>
@@ -16,6 +16,11 @@
 
 <img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
   
+</a>
+  
+<a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
+
+<img src='https://img.shields.io/badge/-MIT-blue?style=for-the-badge'>
 </a>
   
 </div>
