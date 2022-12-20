@@ -131,6 +131,8 @@ pip install streamlit
 streamlit run Stream_app.py
 
 ```
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johntan38&theme=dracula&show_icons=true)](https://github.com/johntan38/github-readme-stats)
+
 # Contributors ✨
 # Contributing
 
