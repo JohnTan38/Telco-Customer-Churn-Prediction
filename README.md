@@ -68,9 +68,20 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 
 
-### Pearson Coefficient
-> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Charges%20distribution.PNG?raw=true)
-> 
+### Pearson Ranking of Features
+> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Pearson.PNG?raw=true)
+
+### Feature Importances
+> ![Feature Importances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Feature_Importances.PNG?raw=true)
+> Monthly Revenue is an important feature
+
+### Validation Curves
+> ![Validation Curves](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Validation_curve.PNG?raw=true)<br>
+> CV Scores improve with greater depth of trees
+
+### Intercluster Distances
+> ![Intercluster Distances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Intercluster.PNG?raw=true)
+
 
 
 ## 	:toolbox: Getting Started
@@ -100,8 +111,9 @@ clf.fit(X, y)
 
 ## ✅&nbsp; Strategies to Counter Churn
 
-> Streamline and simplify billing processes. Offer deals to reduce high monthly charges
-> Develop effective customer retention marketing campaigns as barriers to swtiching are low
+* Engage customers before tenure reaches 24 months
+* Develop effective customer retention marketing campaigns
+* Offer deals to reduce Total Recurring charges
 
 
 # 🚀&nbsp; Streamlit - Interactive Machine Learning
