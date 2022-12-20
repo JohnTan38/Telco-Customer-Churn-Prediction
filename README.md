@@ -69,7 +69,8 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 
 
 ### Pearson Ranking of Features
-> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Pearson.PNG?raw=true)
+> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Pearson.PNG?raw=true)<br>
+> Monthly Revenue and Monthly Minutes are highly correlated. One of the variables could be dropped
 
 ### Feature Importances
 > ![Feature Importances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Feature_Importances.PNG?raw=true)
