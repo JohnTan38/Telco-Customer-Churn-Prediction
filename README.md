@@ -66,6 +66,13 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 > 
 > <br>
 > Customers with higher Monthly Charges are also more likely to churn.<br>
+
+
+### Pearson Coefficient
+> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Charges%20distribution.PNG?raw=true)
+> 
+
+
 ## 	:toolbox: Getting Started
 The solution is developed using Python 3.11 and Visual Studio Code with Python extensions
 ### :bangbang: Prerequisites
