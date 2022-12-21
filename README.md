@@ -121,8 +121,7 @@ clf.fit(X, y)
 
 
 
-> ![Stream App1](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Stream_app1.png)
-> ![Stream App2](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Stream_app2.png)
+> ![alt text](churndemo.gif "demo")
 > 
 
 ### 🏃: Run Locally
