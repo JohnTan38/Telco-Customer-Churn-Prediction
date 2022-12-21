@@ -113,8 +113,8 @@ clf.fit(X, y)
 ## ✅&nbsp; Strategies to Counter Churn
 
 * Engage customers before tenure reaches 24 months
-* Develop effective customer retention marketing campaigns
-* Offer deals to reduce Total Recurring charges
+* Customer Segmentation for targeted and effective customer retention marketing campaigns
+* Match segments to comprehensive suite of mobile plans with various price plans
 
 
 # 🚀&nbsp; Streamlit - Interactive Machine Learning
