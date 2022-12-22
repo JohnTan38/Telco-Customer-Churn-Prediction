@@ -1,0 +1,312 @@
+HomeTeam,AwayTeam,Date
+CA Osasuna,Sevilla FC,2-Jan
+RC Celta,RCD Espanyol de Barcelona,2-Feb
+UD Almería,Real Madrid,1-Feb
+Sevilla FC,Real Valladolid CF,1-Jan
+RCD Mallorca,Real Betis,1-Feb
+RC Celta,Real Madrid,1-Apr
+Real Sociedad,FC Barcelona,1-Apr
+Elche CF,UD Almería,1-Jan
+Girona FC,Getafe CF,3-Jan
+UD Almería,Sevilla FC,2-Jan
+RCD Espanyol de Barcelona,Real Madrid,1-Mar
+RCD Mallorca,Girona FC,1-Jan
+Real Madrid,Real Betis,2-Jan
+Real Sociedad,Atlético de Madrid,1-Jan
+CA Osasuna,Rayo Vallecano,2-Jan
+Valencia CF,Getafe CF,5-Jan
+Girona FC,Real Valladolid CF,2-Jan
+Rayo Vallecano,Valencia CF,2-Jan
+RCD Espanyol de Barcelona,Sevilla FC,2-Mar
+Atlético de Madrid,RC Celta,4-Jan
+Real Madrid,RCD Mallorca,4-Jan
+Elche CF,Athletic Club,1-Apr
+Getafe CF,Real Sociedad,2-Jan
+Athletic Club,Rayo Vallecano,3-Feb
+Villarreal CF,Sevilla FC,1-Jan
+Real Betis,Girona FC,2-Jan
+Real Sociedad,RCD Espanyol de Barcelona,2-Jan
+Atlético de Madrid,Real Madrid,1-Feb
+Getafe CF,Real Valladolid CF,2-Mar
+RCD Espanyol de Barcelona,Valencia CF,2-Feb
+Girona FC,Real Sociedad,3-May
+Real Madrid,CA Osasuna,1-Jan
+Rayo Vallecano,Elche CF,2-Jan
+CA Osasuna,Valencia CF,1-Feb
+UD Almería,Rayo Vallecano,3-Jan
+Atlético de Madrid,Girona FC,2-Jan
+Sevilla FC,Athletic Club,1-Jan
+Cádiz CF,RCD Espanyol de Barcelona,2-Feb
+Elche CF,RCD Mallorca,1-Jan
+Girona FC,Cádiz CF,1-Jan
+Valencia CF,Elche CF,2-Feb
+RC Celta,Real Sociedad,1-Feb
+Real Madrid,FC Barcelona,3-Jan
+Real Betis,UD Almería,3-Jan
+Sevilla FC,Valencia CF,1-Jan
+Getafe CF,Athletic Club,2-Feb
+Atlético de Madrid,Rayo Vallecano,1-Jan
+Real Valladolid CF,RC Celta,4-Jan
+UD Almería,Girona FC,3-Feb
+Rayo Vallecano,Cádiz CF,5-Jan
+Valencia CF,RCD Mallorca,1-Feb
+Real Madrid,Sevilla FC,3-Jan
+RCD Espanyol de Barcelona,Elche CF,2-Feb
+Real Betis,Atlético de Madrid,1-Feb
+Girona FC,CA Osasuna,1-Jan
+Villarreal CF,UD Almería,2-Jan
+RC Celta,Getafe CF,1-Jan
+RCD Mallorca,RCD Espanyol de Barcelona,1-Jan
+UD Almería,RC Celta,3-Jan
+Cádiz CF,Atlético de Madrid,3-Feb
+Real Madrid,Girona FC,1-Jan
+Girona FC,Athletic Club,2-Jan
+Real Valladolid CF,Elche CF,2-Jan
+RC Celta,CA Osasuna,1-Feb
+Atlético de Madrid,RCD Espanyol de Barcelona,1-Jan
+Real Sociedad,Valencia CF,1-Jan
+Real Betis,Sevilla FC,1-Jan
+Rayo Vallecano,Real Madrid,3-Feb
+Elche CF,Girona FC,1-Feb
+CA Osasuna,FC Barcelona,1-Feb
+Real Madrid,Cádiz CF,2-Jan
+Girona FC,Rayo Vallecano,
+Real Betis,Athletic Club,
+Atlético de Madrid,Elche CF,
+Getafe CF,RCD Mallorca,
+RC Celta,Sevilla FC,
+Cádiz CF,UD Almería,
+Real Valladolid CF,Real Madrid,
+FC Barcelona,RCD Espanyol de Barcelona,
+Real Sociedad,CA Osasuna,
+Villarreal CF,Valencia CF,
+Elche CF,RC Celta,
+Valencia CF,Cádiz CF,
+Villarreal CF,Real Madrid,
+RCD Mallorca,Real Valladolid CF,
+RCD Espanyol de Barcelona,Girona FC,
+UD Almería,Real Sociedad,
+Rayo Vallecano,Real Betis,
+Sevilla FC,Getafe CF,
+Atlético de Madrid,FC Barcelona,
+Athletic Club,CA Osasuna,
+RC Celta,Villarreal CF,
+Real Valladolid CF,Rayo Vallecano,
+Girona FC,Sevilla FC,
+CA Osasuna,RCD Mallorca,
+Real Sociedad,Athletic Club,
+Getafe CF,RCD Espanyol de Barcelona,
+UD Almería,Atlético de Madrid,
+Cádiz CF,Elche CF,
+Real Betis,FC Barcelona,
+Real Madrid,Valencia CF,
+Athletic Club,Real Madrid,
+Atlético de Madrid,Real Valladolid CF,
+FC Barcelona,Getafe CF,
+Elche CF,CA Osasuna,
+Rayo Vallecano,Real Sociedad,
+RCD Espanyol de Barcelona,Real Betis,
+RCD Mallorca,RC Celta,
+Sevilla FC,Cádiz CF,
+Valencia CF,UD Almería,
+Villarreal CF,Girona FC,
+Cádiz CF,RCD Mallorca,
+Real Madrid,Real Sociedad,
+UD Almería,RCD Espanyol de Barcelona,
+RC Celta,Athletic Club,
+CA Osasuna,Atlético de Madrid,
+Girona FC,FC Barcelona,
+Getafe CF,Real Betis,
+Sevilla FC,Elche CF,
+Real Valladolid CF,Valencia CF,
+Villarreal CF,Rayo Vallecano,
+Athletic Club,Cádiz CF,
+Atlético de Madrid,Getafe CF,
+FC Barcelona,Sevilla FC,
+Real Betis,RC Celta,
+Elche CF,Villarreal CF,
+RCD Mallorca,Real Madrid,
+RCD Espanyol de Barcelona,CA Osasuna,
+Real Sociedad,Real Valladolid CF,
+Girona FC,Valencia CF,
+Rayo Vallecano,UD Almería,
+Getafe CF,Rayo Vallecano,
+Cádiz CF,Girona FC,
+RCD Espanyol de Barcelona,Real Sociedad,
+UD Almería,Real Betis,
+Valencia CF,Athletic Club,
+RC Celta,Atlético de Madrid,
+Villarreal CF,FC Barcelona,
+Real Madrid,Elche CF,
+Sevilla FC,RCD Mallorca,
+Real Valladolid CF,CA Osasuna,
+FC Barcelona,Cádiz CF,
+Real Betis,Real Valladolid CF,
+Elche CF,RCD Espanyol de Barcelona,
+RCD Mallorca,Villarreal CF,
+Getafe CF,Valencia CF,
+CA Osasuna,Real Madrid,
+Rayo Vallecano,Sevilla FC,
+Atlético de Madrid,Athletic Club,
+Real Sociedad,RC Celta,
+Girona FC,UD Almería,
+Athletic Club,Girona FC,
+RC Celta,Real Valladolid CF,
+Cádiz CF,Rayo Vallecano,
+RCD Espanyol de Barcelona,RCD Mallorca,
+UD Almería,FC Barcelona,
+Real Madrid,Atlético de Madrid,
+Elche CF,Real Betis,
+Villarreal CF,Getafe CF,
+Sevilla FC,CA Osasuna,
+Valencia CF,Real Sociedad,
+Atlético de Madrid,Sevilla FC,
+FC Barcelona,Valencia CF,
+Real Betis,Real Madrid,
+Getafe CF,Girona FC,
+UD Almería,Villarreal CF,
+Rayo Vallecano,Athletic Club,
+CA Osasuna,RC Celta,
+RCD Mallorca,Elche CF,
+Real Sociedad,Cádiz CF,
+Real Valladolid CF,RCD Espanyol de Barcelona,
+Athletic Club,FC Barcelona,
+RC Celta,Rayo Vallecano,
+Elche CF,Real Valladolid CF,
+RCD Mallorca,Real Sociedad,
+Cádiz CF,Getafe CF,
+Girona FC,Atlético de Madrid,
+Villarreal CF,Real Betis,
+Real Madrid,RCD Espanyol de Barcelona,
+Valencia CF,CA Osasuna,
+Sevilla FC,UD Almería,
+Atlético de Madrid,Valencia CF,
+FC Barcelona,Real Madrid,
+Real Betis,RCD Mallorca,
+Getafe CF,Sevilla FC,
+CA Osasuna,Villarreal CF,
+UD Almería,Cádiz CF,
+Real Valladolid CF,Athletic Club,
+RCD Espanyol de Barcelona,RC Celta,
+Real Sociedad,Elche CF,
+Rayo Vallecano,Girona FC,
+Athletic Club,Getafe CF,
+Atlético de Madrid,Real Betis,
+RCD Mallorca,CA Osasuna,
+Cádiz CF,Sevilla FC,
+Real Madrid,Real Valladolid CF,
+Elche CF,FC Barcelona,
+Girona FC,RCD Espanyol de Barcelona,
+Villarreal CF,Real Sociedad,
+Valencia CF,Rayo Vallecano,
+RC Celta,UD Almería,
+FC Barcelona,Girona FC,
+Real Betis,Cádiz CF,
+Real Madrid,Villarreal CF,
+UD Almería,Valencia CF,
+RCD Espanyol de Barcelona,Athletic Club,
+Rayo Vallecano,Atlético de Madrid,
+Sevilla FC,RC Celta,
+CA Osasuna,Elche CF,
+Real Valladolid CF,RCD Mallorca,
+Real Sociedad,Getafe CF,
+Athletic Club,Real Sociedad,
+Real Betis,RCD Espanyol de Barcelona,
+RC Celta,RCD Mallorca,
+Cádiz CF,Real Madrid,
+Villarreal CF,Real Valladolid CF,
+Getafe CF,FC Barcelona,
+Girona FC,Elche CF,
+Rayo Vallecano,CA Osasuna,
+Valencia CF,Sevilla FC,
+Atlético de Madrid,UD Almería,
+Elche CF,Valencia CF,
+Sevilla FC,Villarreal CF,
+UD Almería,Athletic Club,
+FC Barcelona,Atlético de Madrid,
+CA Osasuna,Real Betis,
+Real Madrid,RC Celta,
+RCD Mallorca,Getafe CF,
+RCD Espanyol de Barcelona,Cádiz CF,
+Real Sociedad,Rayo Vallecano,
+Real Valladolid CF,Girona FC,
+Athletic Club,Sevilla FC,
+Atlético de Madrid,RCD Mallorca,
+Real Betis,Real Sociedad,
+RC Celta,Elche CF,
+Cádiz CF,CA Osasuna,
+Valencia CF,Real Valladolid CF,
+Girona FC,Real Madrid,
+Rayo Vallecano,FC Barcelona,
+Villarreal CF,RCD Espanyol de Barcelona,
+Getafe CF,UD Almería,
+FC Barcelona,Real Betis,
+Elche CF,Rayo Vallecano,
+Cádiz CF,Valencia CF,
+RCD Espanyol de Barcelona,Getafe CF,
+CA Osasuna,Real Sociedad,
+RCD Mallorca,Athletic Club,
+Real Valladolid CF,Atlético de Madrid,
+Villarreal CF,RC Celta,
+Real Madrid,UD Almería,
+Sevilla FC,Girona FC,
+Athletic Club,Real Betis,
+Atlético de Madrid,Cádiz CF,
+FC Barcelona,CA Osasuna,
+Valencia CF,Villarreal CF,
+Rayo Vallecano,Real Valladolid CF,
+UD Almería,Elche CF,
+Girona FC,RCD Mallorca,
+Getafe CF,RC Celta,
+Sevilla FC,RCD Espanyol de Barcelona,
+Real Sociedad,Real Madrid,
+Real Betis,Rayo Vallecano,
+RC Celta,Valencia CF,
+Villarreal CF,Athletic Club,
+Elche CF,Atlético de Madrid,
+RCD Espanyol de Barcelona,FC Barcelona,
+Real Madrid,Getafe CF,
+RCD Mallorca,Cádiz CF,
+Real Valladolid CF,Sevilla FC,
+CA Osasuna,UD Almería,
+Real Sociedad,Girona FC,
+Athletic Club,RC Celta,
+Atlético de Madrid,CA Osasuna,
+FC Barcelona,Real Sociedad,
+Cádiz CF,Real Valladolid CF,
+UD Almería,RCD Mallorca,
+Girona FC,Villarreal CF,
+Sevilla FC,Real Betis,
+Getafe CF,Elche CF,
+Rayo Vallecano,RCD Espanyol de Barcelona,
+Valencia CF,Real Madrid,
+Real Betis,Getafe CF,
+RC Celta,Girona FC,
+Elche CF,Sevilla FC,
+RCD Mallorca,Valencia CF,
+CA Osasuna,Athletic Club,
+RCD Espanyol de Barcelona,Atlético de Madrid,
+Real Valladolid CF,FC Barcelona,
+Villarreal CF,Cádiz CF,
+Real Madrid,Rayo Vallecano,
+Real Sociedad,UD Almería,
+Athletic Club,Elche CF,
+Atlético de Madrid,Real Sociedad,
+FC Barcelona,RCD Mallorca,
+Getafe CF,CA Osasuna,
+Cádiz CF,RC Celta,
+Rayo Vallecano,Villarreal CF,
+UD Almería,Real Valladolid CF,
+Girona FC,Real Betis,
+Valencia CF,RCD Espanyol de Barcelona,
+Sevilla FC,Real Madrid,
+Real Betis,Valencia CF,
+RCD Mallorca,Rayo Vallecano,
+Real Sociedad,Sevilla FC,
+Real Madrid,Athletic Club,
+Villarreal CF,Atlético de Madrid,
+RC Celta,FC Barcelona,
+Real Valladolid CF,Getafe CF,
+Elche CF,Cádiz CF,
+RCD Espanyol de Barcelona,UD Almería,
+CA Osasuna,Girona FC,
