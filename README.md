@@ -54,34 +54,34 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 
 # 🌟 EDA
 ### Tenure and Churn
-> ![Tenure and Churn](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Tenure%20and%20churn.PNG?raw=true)
+> ![Tenure and Churn](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Tenure%20and%20churn.PNG?raw=true)
 <br>
 > New customers are more likely to churn.<br>
 
 
 ### Distribution of Monthly Charges
-> ![Monthly Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Charges%20distribution.PNG?raw=true)
+> ![Monthly Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Charges%20distribution.PNG?raw=true)
 > 
-> ![Total Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Total%20charges.PNG)
+> ![Total Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Total%20charges.PNG)
 > 
 > <br>
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 
 
 ### Pearson Ranking of Features
-> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Pearson.PNG?raw=true)<br>
+> ![Pearson Coefficient](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Pearson.PNG?raw=true)<br>
 > Monthly Revenue and Monthly Minutes are highly correlated. One of the variables could be dropped
 
 ### Feature Importances
-> ![Feature Importances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Feature_Importances.PNG?raw=true)
+> ![Feature Importances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Feature_Importances.PNG?raw=true)
 > Monthly Revenue is an important feature
 
 ### Validation Curves
-> ![Validation Curves](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Validation_curve.PNG?raw=true)<br>
+> ![Validation Curves](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Validation_curve.PNG?raw=true)<br>
 > CV Scores improve with greater depth of trees
 
 ### Intercluster Distances
-> ![Intercluster Distances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Intercluster.PNG?raw=true)
+> ![Intercluster Distances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Intercluster.PNG?raw=true)
 
 
 
