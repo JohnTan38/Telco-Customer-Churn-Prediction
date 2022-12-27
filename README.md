@@ -117,6 +117,9 @@ clf.fit(X, y)
 * Match segments to comprehensive suite of mobile plans with various price plans
 
 
+### K Means Clustering - Customer Segmentation
+> ![Kmeans](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Kmeans.PNG?raw=true)
+
 # 🚀&nbsp; Streamlit - Interactive Machine Learning
 
 
