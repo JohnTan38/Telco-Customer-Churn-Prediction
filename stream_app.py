@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 from PIL import Image
-model_file = (r"C:\Users\john.tan\OneDrive - Cogent Holdings Pte. Ltd\Desktop\model_C_1.bin")
+model_file = (r"https://raw.githubusercontent.com/JohnTan38/Telco-Customer-Churn-Prediction/blob/main/model_C_1.bin")
 
 with open(model_file, 'rb') as f_in:
     dv, model = pickle.load(f_in)
