@@ -63,9 +63,14 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 > ![Monthly Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Charges%20distribution.PNG?raw=true)
 > 
 > ![Total Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Total%20charges.PNG)
-> 
 > <br>
 > Customers with higher Monthly Charges are also more likely to churn.<br>
+> 
+> ![Total Recurring Churn](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/TotalRecurChurn.PNG)
+> <br>
+> 
+>   
+> Customers with shorter tenure more likely to churn.<br>
 
 
 ### Pearson Ranking of Features
