@@ -87,6 +87,9 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 
 ### Intercluster Distances
 > ![Intercluster Distances](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/Intercluster.PNG?raw=true)
+> 
+### AUC Gradient Boosting models - higher scores 
+> ![AUC](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/images/AUC.PNG?raw=true)
 
 
 
